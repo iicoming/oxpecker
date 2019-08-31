@@ -1,9 +1,3 @@
-## 关于我们
-Website：https://security.immomo.com <br>
-WeChat:<br> 
-<img src="https://momo-mmsrc.oss-cn-hangzhou.aliyuncs.com/img-1c96a083-7392-3b72-8aec-bad201a6abab.jpeg" width="200" hegiht="200" align=center /><br>
-[文章地址](https://dwz.cn/yIyclLxZ)
-<br>
 ## 项目简介
 
 oxpecker是一款用于从IDE提取开发项目仓库地址、当前分支、三方组件等信息用于安全分析的JetBrains家族IDE插件。
